@@ -1,0 +1,14 @@
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\bin\Debug\net8.0\Ex_001_Hello.exe
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\bin\Debug\net8.0\Ex_001_Hello.deps.json
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\bin\Debug\net8.0\Ex_001_Hello.runtimeconfig.json
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\bin\Debug\net8.0\Ex_001_Hello.dll
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\bin\Debug\net8.0\Ex_001_Hello.pdb
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.dll
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\refint\Ex_001_Hello.dll
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.pdb
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\Ex_001_Hello.genruntimeconfig.cache
+C:\Users\Денис Кадыров\Desktop\Exzample\Ex_001_Hello\obj\Debug\net8.0\ref\Ex_001_Hello.dll
